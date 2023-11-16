@@ -103,7 +103,6 @@ export default function Footer() {
           <div className='flex-1'>
             <h3 className='h3 font-bold mb-8'>Newsletter</h3>
             <div className='mb-9 text-secondary'>
-            Stay in the driver's seat of exclusive offers, travel tips, and exciting updates.
             </div>
             {/* form */}
             <form className='flex gap-x-2 h-14'>
